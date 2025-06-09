@@ -9,7 +9,9 @@
 
 ---
 
-Soy frontend developer con experiencia real construyendo productos escalables. Mi último proyecto, Workout Torrelodones, combina IA, diseño y entrenamiento. Me interesa todo lo que cruce tecnología con experiencia de usuario.
+Me apasiona crear interfaces claras y atractivas.  
+Soy frontend con sensibilidad por el diseño y visión de producto.  
+Con experiencia también en Java, MongoDB y MySQL, cubro todo el stack básico de una app.
 
 
 ### 🚀 Proyectos Destacados
