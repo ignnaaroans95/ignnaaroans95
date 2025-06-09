@@ -11,7 +11,7 @@
 
 Me apasiona crear interfaces claras y atractivas.  
 Soy frontend con sensibilidad por el diseño y visión de producto.  
-Con experiencia también en Java, MongoDB y MySQL, cubro todo el stack básico de una app.
+Con experiencia también en Java, MongoDB y MySQL, cubro  el stack básico de una app.
 
 
 ### 🚀 Proyectos Destacados
