@@ -9,8 +9,8 @@
 
 ---
 
- Soy un desarrollador frontend con background en diseño, IA y creatividad. Mi proyecto más reciente es **Workout Torrelodones**, una plataforma escalable de asesotías  que combina tecnología y entrenamiento personalizado, la cual iré escalando y manteniendo.
-Me atrae la combinación de arte con tecnología, crear interfaces limpias y minimalistas como forma de expresión . 
+Soy frontend developer con experiencia real construyendo productos escalables. Mi último proyecto, Workout Torrelodones, combina IA, diseño y entrenamiento. Me interesa todo lo que cruce tecnología con experiencia de usuario.
+
 
 ### 🚀 Proyectos Destacados
 
