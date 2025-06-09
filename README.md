@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ignacio 👋</h1>
+<h1 align="center">Ignacio Suárez — Frontend Dev con visión de producto</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-%2399b4d1?style=flat-square&logo=html5&logoColor=white"/>
