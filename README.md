@@ -16,7 +16,7 @@ Soy frontend con sensibilidad por el diseño y visión de producto.
 Con experiencia también en Java, MongoDB y MySQL, cubro  el stack básico de una app.
 
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
