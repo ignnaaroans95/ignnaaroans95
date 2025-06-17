@@ -52,3 +52,28 @@ Con experiencia también en Java, MongoDB y MySQL, cubro el stack básico de una
 
 ---
 
+---
+
+### 📬 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-suárez-ruiz-94105630a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:igna1995@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ignaaron95" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  🧑‍💻 Desarrollado por Ignacio Suárez Ruiz  
+  <br/>
+  📍 Torrelodones (Madrid) — Disponible para colaborar o incorporarme a tu equipo.
+</p>
+
+
