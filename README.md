@@ -2,11 +2,6 @@
 <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/Blue%20White%20Modern%20New%20Collection%20Banner.png" alt="Banner Ignacio" width="100%" />
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-%2399b4d1?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/React-%2300d8ff?style=flat-square&logo=react&logoColor=white"/>
-</p>
 
 
 ---
