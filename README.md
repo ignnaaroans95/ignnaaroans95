@@ -12,7 +12,7 @@ Con experiencia también en Java, MongoDB y MySQL, cubro el stack básico de una
 
 ---
 
-### 🚀 Proyectos destacados
+  <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/LIT.png" alt="Banner Ignacio" width="100%" />
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
