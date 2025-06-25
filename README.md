@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/H1.png" alt="h1 Ignacio" width="100%" /></h1>
+<h1 align="center">Ignacio Suárez — Frontend Dev con visión de producto</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/Blue%20White%20Modern%20New%20Collection%20Banner.png" alt="Banner Ignacio" width="100%" />
@@ -13,18 +12,22 @@ Con experiencia también en Java, MongoDB y MySQL, cubro el stack básico de una
 
 ---
 
+<p align="center">
   <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/LIT.png" alt="Banner Ignacio" width="100%" />
+</p>
+
+## 🚀 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | [<img src="https://github.com/ignnaaroans95/WorkoutProject/blob/main/WorkOutTorrelodones/assets/img/icon.png?raw=true" width="120"/>](https://github.com/ignnaaroans95/WorkoutProject) | Plataforma real para entrenadores personales con chatbot IA, WhatsApp y diseño escalable. | ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![IA](https://img.shields.io/badge/-OpenAI-000?style=flat&logo=openai) ![Canva](https://img.shields.io/badge/-Canva-000?style=flat&logo=canva) |
 | [<img src="https://github.com/ignnaaroans95/billar3dunity/blob/main/resources/icono-billar-4.png?raw=true" width="120"/>](https://github.com/ignnaaroans95/billar3dunity) | Simulador de billar con físicas realistas y mecánicas arcade. Interfaz optimizada y experiencia de usuario vertical. | ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=unity) ![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=c-sharp) |
-| [ Instalador con Java Swing](https://github.com/ignaaron95/JavaInstallerSwing) | Aplicación Java con instalador visual y guía en PDF. | ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk) ![Swing](https://img.shields.io/badge/-Swing-000?style=flat&logo=java) ![Installer](https://img.shields.io/badge/-Advanced%20Installer-000?style=flat&logo=windows) |
-| [ Generador de Informes en PDF](https://github.com/ignaaron95/InformeLibrosPDF) | App Java que genera informes detallados en PDF sobre libros, con JasperReports y ficha por ejemplar. | ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk) ![JasperReports](https://img.shields.io/badge/-JasperReports-000?style=flat&logo=apache) |
+| [Instalador con Java Swing](https://github.com/ignaaron95/JavaInstallerSwing) | Aplicación Java con instalador visual y guía en PDF. | ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk) ![Swing](https://img.shields.io/badge/-Swing-000?style=flat&logo=java) ![Installer](https://img.shields.io/badge/-Advanced%20Installer-000?style=flat&logo=windows) |
+| [Generador de Informes en PDF](https://github.com/ignaaron95/InformeLibrosPDF) | App Java que genera informes detallados en PDF sobre libros, con JasperReports y ficha por ejemplar. | ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk) ![JasperReports](https://img.shields.io/badge/-JasperReports-000?style=flat&logo=apache) |
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 #### 🎨 Frontend
 
@@ -50,6 +53,7 @@ Con experiencia también en Java, MongoDB y MySQL, cubro el stack básico de una
 
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
