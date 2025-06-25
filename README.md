@@ -1,4 +1,5 @@
-<h1 align="center">Ignacio Suárez — Frontend Dev con visión de producto</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/H1.png" alt="h1 Ignacio" width="100%" /></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ignnaaroans95/ignnaaroans95/main/assets/Blue%20White%20Modern%20New%20Collection%20Banner.png" alt="Banner Ignacio" width="100%" />
